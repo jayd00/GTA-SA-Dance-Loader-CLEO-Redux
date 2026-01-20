@@ -22,10 +22,11 @@ A comprehensive dance animation system for GTA San Andreas with synchronized mus
 - **GTA San Andreas v1.0** (US)
 - **[CLEO Redux 1.4.2](https://re.cleo.li/)** by Seeman
 - **[ImGuiRedux](https://github.com/user-grinch/ImGuiRedux)** by Grinch
+- **[CLEO+ v1.2.0] (https://www.mixmods.com.br/2023/10/cleoplus/)** by Junior_Djjr
 
 ## 🚀 Quick Start
 
-1. Install CLEO Redux 1.4.2 and ImGuiRedux
+1. Install CLEO Redux 1.4.2, ImGuiRedux and CLEO+ v1.2.0
 2. Download Dance Loader files
 3. Extract to your GTA San Andreas directory
 4. Launch the game and press `F4` to open the menu
