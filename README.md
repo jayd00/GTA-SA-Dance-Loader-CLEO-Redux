@@ -63,7 +63,7 @@ For detailed installation instructions, see the [Installation Guide](../../wiki/
 Each animation includes:
 - Custom IFP animation file
 - Synchronized MP3 audio
-- Multiple camera angle files (JSON)
+- Multiple camera animations (JSON)
 - Individual configuration (INI)
 
 ## 🛠️ Technical Details
