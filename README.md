@@ -2,7 +2,7 @@
 
 ![Dance Animations Title](docs/images/title.jpg)
 
-A comprehensive dance animation system for GTA San Andreas with synchronized music playback, multiple camera angles, and an intuitive ImGui interface.
+A comprehensive dance animation system for GTA San Andreas with synchronized music playback, multiple camera support, and an intuitive ImGui interface.
 
 ## 🎮 Features
 
