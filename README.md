@@ -22,7 +22,7 @@ A comprehensive dance animation system for GTA San Andreas with synchronized mus
 - **GTA San Andreas v1.0** (US)
 - **[CLEO Redux 1.4.2](https://re.cleo.li/)** by Seeman
 - **[ImGuiRedux](https://github.com/user-grinch/ImGuiRedux)** by Grinch
-- **[CLEO+ v1.2.0] (https://www.mixmods.com.br/2023/10/cleoplus/)** by Junior_Djjr
+- **[CLEO+ v1.2.0](https://www.mixmods.com.br/2023/10/cleoplus)** by Junior_Djjr
 
 ## 🚀 Quick Start
 
