@@ -4,6 +4,8 @@
 
 A comprehensive dance animation system for GTA San Andreas with synchronized music playback, multiple camera support, and an intuitive ImGui interface.
 
+[![Miniatura grande](https://img.youtube.com/vi/dXZ-LzMCRtU/maxresdefault.jpg)](https://youtu.be/dXZ-LzMCRtU)
+
 ## 🎮 Features
 
 - **10 Pre-configured Dance Animations** with synchronized music and camera movements
