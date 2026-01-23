@@ -38,12 +38,12 @@ For detailed installation instructions, see the [Installation Guide](../../wiki/
 
 ## 📖 Documentation
 
-- **[Installation Guide](../wiki/Installation)** - Step-by-step setup instructions
-- **[How to Use](../wiki/How-to-Use)** - Complete interface and controls guide
-- **[Distribute Your Dances](../wiki/Distribute-Dances)** - Create and share custom animations
-- **[Custom Themes](../wiki/Custom-Themes)** - Add your own UI themes
-- **[MMD Camera Export Tool [BLENDER]](../wiki/MMD-Camera-Export-Tool-%5BBLENDER%5D)** - Blender addon for exporting MMD camera animations to FBX and JSON formats. Compatible with Blender 4.5.3 LTS.
-- **[Camera Export Tool 3dsMax](../wiki/Camera-Export-Tool-3dsMax)** - A 3ds Max tool to convert camera animations (MMD/Blender) to JSON format compatible with CLEO Redux Dance Loader for GTA San Andreas.
+- **[Installation Guide](https://github.com/jayd00/GTA-SA-Dance-Loader-CLEO-Redux/wiki/Installation)** – Step-by-step setup instructions
+- **[How to Use](https://github.com/jayd00/GTA-SA-Dance-Loader-CLEO-Redux/wiki/How-to-Use)** – Complete interface and controls guide
+- **[Distribute Your Dances](https://github.com/jayd00/GTA-SA-Dance-Loader-CLEO-Redux/wiki/Distribute-Dances)** – Create and share custom animations
+- **[Custom Themes](https://github.com/jayd00/GTA-SA-Dance-Loader-CLEO-Redux/wiki/Custom-Themes)** – Add your own UI themes
+- **[MMD Camera Export Tool [BLENDER]](https://github.com/jayd00/GTA-SA-Dance-Loader-CLEO-Redux/wiki/MMD-Camera-Export-Tool-%5BBLENDER%5D)** – Blender addon for exporting MMD camera animations to FBX and JSON formats. Compatible with Blender 4.5.3 LTS.
+- **[Camera Export Tool 3dsMax](https://github.com/jayd00/GTA-SA-Dance-Loader-CLEO-Redux/wiki/Camera-Export-Tool-3dsMax)** – A 3ds Max tool to convert camera animations (MMD/Blender) to JSON format compatible with CLEO Redux Dance Loader for GTA San Andreas.
 
 ## 🎨 Screenshots
 
